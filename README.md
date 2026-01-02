@@ -75,17 +75,17 @@ The app communicates with the hardware device through serial communication, and 
 **Thus, two users communicate completely offline.**
 ## Features
 
-1) Completely Offline: Works without internet or mobile network.
+1) **Completely Offline**: Works without internet or mobile network.
 
-2) Long Range: Long range communication upto 15km.
+2) Long Range: **Long range communication upto 15km.**
 
 3) Low cost compared to satellite phones, Walkie-Talkie and other devices.
 
-4) Can use ofllical WhatsApp in offline mode by using third person.
+4) Can **use ofllical WhatsApp** in offline mode by using third person.
 
 5) Very low power consumption.
 
-6) Location Sharing: We are also able to share our exact gps coordinate to help in rescues. 
+6) Location Sharing: We are also able to **share our exact gps coordinate** to help in rescues. 
 
 7) Portable and easy to carry: Small and compact in size which  is easily carry during disasters and in emergency situations.
 
